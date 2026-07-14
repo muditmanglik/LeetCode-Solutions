@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/muditmanglik/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/muditmanglik/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/muditmanglik/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0977-squares-of-a-sorted-array](https://github.com/muditmanglik/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/muditmanglik/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/muditmanglik/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/muditmanglik/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
